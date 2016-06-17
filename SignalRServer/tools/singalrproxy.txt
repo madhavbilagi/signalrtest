@@ -1,0 +1,6 @@
+C:\Users\madhav.b\Documents\Visual Studio 2015\Projects\SignalarWebAPI\packages\
+Microsoft.AspNet.SignalR.Utils.2.2.0\tools>signalr ghp /path:"C:\Users\madhav.b\
+Documents\Visual Studio 2015\Projects\SignalarWebAPI\onlywebapi\bin"
+SignalR Utility Version: 2.2.0.0
+Creating temp directory C:\Users\madhav.b\AppData\Local\Temp\a81176c6-bd30-4be7-
+b6e6-2ee64b8ae7ad
